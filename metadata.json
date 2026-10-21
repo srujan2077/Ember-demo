@@ -1,0 +1,6 @@
+{
+  "name": "EMBER Café & Roastery",
+  "description": "Specialty coffee roastery and hearth bakehouse celebrating Indian terroir, shade-grown Arabicas from the Western Ghats, and artisanal sourdough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
